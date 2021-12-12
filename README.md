@@ -1,4 +1,4 @@
-### lottery Website for Caatnet
+### lottery Website for Castnet
 
 ```隨機轉盤抽獎
 - 用jquery goRotate函數變換角度
